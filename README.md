@@ -50,14 +50,6 @@ This repo contains a folder called `site`, which, in turn, contains some starter
 
 ---
 
-## ❖・Due・❖
-
-Tuesday, 13 February 2024, at 9:00 AM.
-
-**Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
-
----
-
 ## ❖・Grading・❖
 
 | Item                                             | Points |
@@ -66,6 +58,12 @@ Tuesday, 13 February 2024, at 9:00 AM.
 | *CSS is W3C-compliant*                           | `25`   |
 | *Design shows attempt at producing quality work* | `25`   |
 | *Rules outlined above followed correctly*        | `25`   |
+
+---
+
+## ❖・Due・❖
+
+Wednesday, 14 February 2024, at 3:35 PM. **Aside from a *documented* emergency, `NO` late assignments will be accepted.**
 
 ---
 
