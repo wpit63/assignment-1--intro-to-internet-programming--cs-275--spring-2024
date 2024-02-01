@@ -6,6 +6,19 @@ h1 {
     font-family: 'Honk', system-ui;
 }
 
+h2.first {
+    font-size: 1.5rem;
+    margin: auto;
+    font-family: 'Honk', system-ui;
+}
+
+h2.second {
+    font-size: 1.5rem;
+    margin: 32px;
+    font-family: 'Honk', system-ui;
+}
+
+
 div {
     width:450px;
     margin:auto;
