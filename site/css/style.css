@@ -5,3 +5,12 @@ h1 {
     margin: 16px 0;
     font-family: 'Honk', system-ui;
 }
+
+div {
+    width:450px;
+    margin:auto;
+}
+
+body {
+    background-color:#a72d0e;
+}
