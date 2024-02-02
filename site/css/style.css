@@ -18,6 +18,11 @@ h2.second {
     font-family: 'Honk', system-ui;
 }
 
+h3 {
+    font-size: 1rem;
+    margin: 32px;
+    font-family: 'Honk', system-ui;
+}
 
 div {
     width:450px;
